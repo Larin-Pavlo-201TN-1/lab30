@@ -1,0 +1,11 @@
+D:\visual studio\prodject\lab30\lab30\bin\Debug\lab30.exe.config
+D:\visual studio\prodject\lab30\lab30\bin\Debug\lab30.exe
+D:\visual studio\prodject\lab30\lab30\bin\Debug\lab30.pdb
+D:\visual studio\prodject\lab30\lab30\obj\Debug\lab30.csproj.AssemblyReference.cache
+D:\visual studio\prodject\lab30\lab30\obj\Debug\lab30.csproj.SuggestedBindingRedirects.cache
+D:\visual studio\prodject\lab30\lab30\obj\Debug\lab30.Form1.resources
+D:\visual studio\prodject\lab30\lab30\obj\Debug\lab30.Properties.Resources.resources
+D:\visual studio\prodject\lab30\lab30\obj\Debug\lab30.csproj.GenerateResource.cache
+D:\visual studio\prodject\lab30\lab30\obj\Debug\lab30.csproj.CoreCompileInputs.cache
+D:\visual studio\prodject\lab30\lab30\obj\Debug\lab30.exe
+D:\visual studio\prodject\lab30\lab30\obj\Debug\lab30.pdb
